@@ -1,7 +1,7 @@
 # Intro for XAML
 
 ### What is XAML?
-- E_**X**_tensible _**A**_pplication **M**arkup **L**anguage (XAML) allows the UI of a Xamarin.Forms app to be seperate from the behavior of the aoo.
+- E***X***tensible ***A***pplication ***M***arkup ***L***anguage (XAML) allows the UI of a Xamarin.Forms app to be seperate from the behavior of the aoo.
 - Ideal for complex applications so to be able to interact with the UI and behavior independently
 
 #### XAML Benefits
